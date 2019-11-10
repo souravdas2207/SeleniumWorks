@@ -39,4 +39,6 @@ public class EndUserSteps extends ScenarioSteps {
         enters(term);
         starts_search();
     }
+	
+	// new comment added
 }
